@@ -1,0 +1,29 @@
+QDialog#LoginDialog {
+    background-color: rgb(255, 255, 255);
+}
+
+QWidget#widget {
+    background-color: rgb(255, 255, 255);
+}
+
+QLabel {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+}
+
+QLineEdit {
+    color: rgb(255, 255, 255);
+    background-color: rgb(45, 45, 45);
+    border: 1px solid rgb(45, 45, 45);
+    border-radius: 4px;
+    min-height: 25px;
+    padding-left: 6px;
+}
+
+QPushButton {
+    color: rgb(255, 255, 255);
+    background-color: rgb(45, 45, 45);
+    border: 1px solid rgb(45, 45, 45);
+    border-radius: 4px;
+    min-height: 28px;
+}
