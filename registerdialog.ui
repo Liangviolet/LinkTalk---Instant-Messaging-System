@@ -87,21 +87,21 @@
             </widget>
            </item>
            <item>
-            <widget class="QLineEdit" name="pass_edit"/>
+            <widget class="QLineEdit" name="lineEdit_Passwd"/>
            </item>
           </layout>
          </item>
          <item>
           <layout class="QHBoxLayout" name="horizontalLayout_6">
            <item>
-            <widget class="QLabel" name="label">
+            <widget class="QLabel" name="label_Confirm">
              <property name="text">
               <string>确认</string>
              </property>
             </widget>
            </item>
            <item>
-            <widget class="QLineEdit" name="lineEdit"/>
+            <widget class="QLineEdit" name="lineEdit_Confirm"/>
            </item>
           </layout>
          </item>
