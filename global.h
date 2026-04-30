@@ -14,4 +14,9 @@ enum ErrorCodes{
     ERR_JSON = 1, //Json解析失败
     ERR_NETWORK = 2,
 };
+
+enum Modules{
+    REGISTERMOD = 0,
+};
+
 #endif // GLOBAL_H
